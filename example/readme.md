@@ -43,14 +43,15 @@ sudo apt install npm
   ```
    nano .env
    ```
-Burada açılan pencerede <br><br>
-Aşağıdaki bilgileri inery testnet dashboard kısmında bulabilirsiniz.<br><br>
-INERY_ACCOUNT="YOUR_INERY_ACCOUNT" <br>
+Aşağıdaki bilgileri inery testnet dashboard kısmında bulabilirsiniz.
+
+INERY_ACCOUNT="YOUR_INERY_ACCOUNT"
 PRIVATE_KEY="YOUR_PRIVATE_KEY"
 NODE_URL="http://YOUR_NODE_URL:8888"
-<br><br>
-ctrl +X  Yes diyip çıkalım.
-<br>
+
+
+ctrl +X + Y  diyip çıkalım.
+
 
 ##  8888 portunu açalım
 
@@ -59,6 +60,7 @@ sudo ufw allow 8888
 ```
 <br>
 ## Çalıştırma
+
 RPC örneğini çalıştıralım
 
 ```
