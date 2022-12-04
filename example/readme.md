@@ -67,3 +67,13 @@ RPC örneğini çalıştıralım
 ```
 npm run rpc-example
 ```
+
+Eğer işleminiz başarılı bir şekilde gerçekleşmiş ise aşağıdaki gibi json döngüsüne benzer bir çıktı almalısınız.Bu çıktıda transaction ID ve işlemin gerçekleştiği Blok yüksekliğini görebilirisiniz;
+
+![Adsız](https://user-images.githubusercontent.com/43583832/205498792-e8775496-f892-4776-be83-bf5e44da3ad3.png)
+
+İsterseniz bu işleminizi [Inery Explorer](https://explorer.inery.io/) sayfasından da kontrol edebilirisiniz. 
+
+![Adsız1](https://user-images.githubusercontent.com/43583832/205498878-8e7d660b-b2ea-4b38-ad1b-e7926e6bf76b.png)
+
+
