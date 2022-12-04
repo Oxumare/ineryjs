@@ -58,7 +58,7 @@ ctrl +X + Y  diyip çıkalım.
 ```
 sudo ufw allow 8888
 ```
-<br>
+
 ## Çalıştırma
 
 RPC örneğini çalıştıralım
