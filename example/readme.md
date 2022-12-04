@@ -1,7 +1,7 @@
 # Inery Json RPC (RPC API push transaction)
 Inery Blockchain'de JSON RPC'yi çağırmak için aşağıdaki işlemleri sırası ile yapalım.
 ## Bilgiler
-JSON RPC Örnek kodu örnek dizinde mevcuttur, [example](https://github.com/Oxumare/ineryjs/new/master/example) değiştirmeyi deneyebilir ve nasıl çalıştığını anlayabilirsiniz, ayrıca kodunuzu çalıştırabilmek ve değerli sözleşme işlevini çağırabilmek için Hesabınızda Değerli Akıllı Sözleşmeye (Görev 3) sahip olmanız gerekir.
+JSON RPC Örnek kodu örnek dizinde mevcuttur, [example](https://github.com/Oxumare/ineryjs/tree/master/example) değiştirmeyi deneyebilir ve nasıl çalıştığını anlayabilirsiniz, ayrıca kodunuzu çalıştırabilmek ve değerli sözleşme işlevini çağırabilmek için Hesabınızda Değerli Akıllı Sözleşmeye (Görev 3) sahip olmanız gerekir.
 ##  Başlayalım
 Eski Nodejs kaldıralım
 <br>
