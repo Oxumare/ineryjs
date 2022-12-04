@@ -39,7 +39,7 @@ sudo apt install npm
    ```
    cp .env-sample .env
    ```
-*  ```.env``` bilgileriniz düzenleyin
+*  ```.env``` bilgilerinizi düzenleyin
   ```
    nano .env
    ```
@@ -50,14 +50,15 @@ PRIVATE_KEY="YOUR_PRIVATE_KEY"
 NODE_URL="http://YOUR_NODE_URL:8888"
 
 
-ctrl +X + Y  diyip çıkalım.
+ctrl +X + Y enter diyip çıkalım.
 
 
-##  8888 portunu açalım
+##  8888 portu açalım (Port kapalı olmamalı)
 
 ```
 sudo ufw allow 8888
 ```
+Portu bu adresden kontrol edelim. >> [Port Kontrol](https://dnschecker.org/port-scanner.php)
 
 ## Çalıştırma
 
