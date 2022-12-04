@@ -51,8 +51,8 @@ NODE_URL="http://YOUR_NODE_URL:8888"
 <br><br>
 ctrl +X  Yes diyip çıkalım.
 <br>
-<img src="https://raw.githubusercontent.com/herculessx/Q-Network-Testnet/main/env-duzenle.png" >
-##  8888 port açma 
+
+##  8888 portunu açalım
 
 ```
 sudo ufw allow 8888
@@ -60,6 +60,7 @@ sudo ufw allow 8888
 <br>
 ## Çalıştırma
 RPC örneğini çalıştıralım
+
 ```
 npm run rpc-example
 ```
